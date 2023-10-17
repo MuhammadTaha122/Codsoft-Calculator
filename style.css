@@ -1,0 +1,57 @@
+html,
+body {
+    background-color: gray;
+    width: 300px;
+    padding: 20px;
+    text-align: center;
+    justify-content: center;
+    margin: auto;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.button {
+    color: white;
+    background-color: rgb(169, 63, 31);
+    width: 60px;
+    padding: 10px;
+    margin: 0 3px;
+    border: 2px solid black;
+    cursor: pointer;
+    font-size: 25px;
+}
+
+.row {
+    margin: 8px 0;
+}
+
+.row input {
+    width: 291px;
+    font-size: 20px;
+    margin: 0;
+    padding: 10px 0px;
+    border: 2px solid black;
+    border-radius: 20px;
+}
+
+
+.T {
+    background-color: #ee0303;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
+}
+
+.W {
+    background-color: black;
+}
+
+
+
+.size {
+    width: 100%;
+    padding: 40px 40;
+    text-align: center;
+    justify-content: center;
+}
+
+.head {
+    color: black;
+}
